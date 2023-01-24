@@ -26,4 +26,4 @@ It is possible to modify the value using the buttons:
 
 ## Contact
 
-[Email](mailto:andrea.beltrami@email.com)| [LinkedIn](https://www.linkedin.com/in/andrea-beltrami-819165252/)
+[Email](mailto:andrea.beltrami@email.com) | [LinkedIn](https://www.linkedin.com/in/andrea-beltrami-819165252/)
