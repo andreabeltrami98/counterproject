@@ -1,12 +1,6 @@
-# ![WebApp](https://github.com/andreabeltrami98/counterproject/blob/main/demoCounter.png)
-# Counter WebApp
-<table>
-<tr>
-<td>
-  A counter with simple functions to add or subtract the number inside using the buttons.
-</td>
-</tr>
-</table>
+# ![Counter App](https://github.com/andreabeltrami98/counterproject/blob/main/demoCounter.png)
+# Counter
+A counter with simple functions to add or subtract the number inside using the buttons.
 
 
 ## Demo
@@ -32,4 +26,5 @@ It is possible to modify the value using the buttons:
 
 ## Contact
 
-[Email](mailto:andrea.beltrami@email.com) |[LinkedIn](https://www.linkedin.com/in/andrea-beltrami-819165252/)
+[Email](mailto:andrea.beltrami@email.com)
+[LinkedIn](https://www.linkedin.com/in/andrea-beltrami-819165252/)
