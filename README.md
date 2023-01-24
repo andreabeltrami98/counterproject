@@ -4,7 +4,9 @@ A counter with simple functions to add or subtract the number inside using the b
 
 
 ## Demo
-Here is a working live demo :  https://www.project0own.com/counter.html{:target="_blank"}
+Here is a working live demo :  https://www.project0own.com/counter.html
+
+[test](http://test.com){:target="_blank"}
 
 
 ## How to use
